@@ -1,0 +1,8 @@
+#!/bin/bash
+
+./a.out 1 0 &
+./a.out 2 4 &
+./a.out 2 7 &
+./a.out 3 6 &
+./a.out 3 2 &
+./a.out 3 1 &
